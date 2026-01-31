@@ -21,6 +21,22 @@ for learning and demonstration purposes.
 - Azure Portal
 
 ---
+## 📸 Screenshots
+
+### Storage Account Overview
+![Storage Account](screenshots/storage-account-overview.png)
+
+### Blob Container
+![Blob Container](screenshots/blob-container.png)
+
+### File Upload
+![File Upload](screenshots/file-upload.png)
+
+### Secure Sharing (SAS)
+![SAS](screenshots/sas-link.png)
+
+
+
 
 ## 🚀 Features
 - Secure file storage using private Blob containers
@@ -80,34 +96,4 @@ Secure Access via SAS Token
 4. Uploaded files to Azure Blob Storage
 5. Generated Shared Access Signature (SAS) URLs for secure sharing
 6. Verified version history and access control
-
----
-
-## 🔐 Security Considerations
-- Containers are private (no anonymous access)
-- Access is controlled using SAS tokens
-- SAS tokens are time-limited and permission-based
-- No storage account keys exposed
-
----
-
-## 📚 Learning Outcomes
-- Understanding Azure Blob Storage fundamentals
-- Hands-on experience with Azure Portal
-- Knowledge of cloud file security concepts
-- Experience with versioning and secure sharing
-- Practical exposure to real-world cloud storage architecture
-
----
-
-## ℹ️ Notes
-This project was initially deployed using Azure Free Subscription.
-Screenshots are not included due to subscription limitations.
-The project can be redeployed at any time following the documented steps.
-
----
-
-## 📎 Disclaimer
-This repository is intended for educational and learning purposes.
-No production data is used.
 

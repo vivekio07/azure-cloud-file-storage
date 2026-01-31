@@ -1,16 +1,13 @@
 ## 📸 Screenshots
 
 ### Storage Account Overview
-![Storage Account](screenshots/storage-account-overview.png)
+![Storage Account](https://github.com/vivekio07/azure-cloud-file-storage/blob/c87db9ae1147d2ae28f70d34e2f6ecd647e593db/storage-account-overview.png.png)
 
 ### Blob Container
-![Blob Container](screenshots/blob-container.png)
+![screenshots/blob-container.png](https://github.com/vivekio07/azure-cloud-file-storage/blob/c87db9ae1147d2ae28f70d34e2f6ecd647e593db/blob-container.png.png)
 
 ### File Upload
-![File Upload](screenshots/file-upload.png)
+![File Upload](https://github.com/vivekio07/azure-cloud-file-storage/blob/c87db9ae1147d2ae28f70d34e2f6ecd647e593db/screenshotsfile-upload.png.png)
 
 ### Secure Sharing (SAS)
-![SAS](screenshots/sas-link.png)
-
-
-
+![SAS](https://github.com/vivekio07/azure-cloud-file-storage/blob/c87db9ae1147d2ae28f70d34e2f6ecd647e593db/sas-link.png)

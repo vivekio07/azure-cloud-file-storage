@@ -24,7 +24,7 @@ for learning and demonstration purposes.
 ## 📸 Screenshots
 
 ### Storage Account Overview
-![Storage Account]([screenshots/storage-account-overview.png](https://github.com/vivekio07/azure-cloud-file-storage/blob/c87db9ae1147d2ae28f70d34e2f6ecd647e593db/storage-account-overview.png.png))
+![Storage Account](https://github.com/vivekio07/azure-cloud-file-storage/blob/c87db9ae1147d2ae28f70d34e2f6ecd647e593db/storage-account-overview.png.png)
 
 ### Blob Container
 ![screenshots/blob-container.png](https://github.com/vivekio07/azure-cloud-file-storage/blob/c87db9ae1147d2ae28f70d34e2f6ecd647e593db/blob-container.png.png)
